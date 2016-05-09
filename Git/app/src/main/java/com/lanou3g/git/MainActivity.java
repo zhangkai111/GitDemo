@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //打款发货给以U按行if个IE个红色反倒是都是的 符 
+    //打款发货给以U按行if个IE个红色反倒是都是的 符
+    // 我看过很快的脚后跟苦涩韩国  的
 }
